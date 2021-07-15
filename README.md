@@ -1,6 +1,5 @@
 # Fomozi exchange
 A protocol for decentralized exchange of Binance smart chain tokens.
-# Uniswap Interface
 
 ## Accessing Fomozi exchange
 
