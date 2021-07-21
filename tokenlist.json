@@ -1,0 +1,257 @@
+{
+  "name": "Fomozi List",
+  "timestamp": "2021-05-02T01:53:16.282Z",
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://bscscan.com/token/images/fomozi_32.png",
+  "keywords": [
+    "Pandaswap",
+    "bsc"
+  ],
+  "tokens": [
+    {
+      "name": "Ankr",
+      "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/ankr_32.png"
+    },
+    {
+      "name": "BakeryToken",
+      "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      "symbol": "BAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/bakeryswap_32.png"
+    },
+    {
+      "name": "BAND",
+      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "symbol": "BAND",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/bandtoken_32.png"
+    },
+    {
+      "name": "BAT",
+      "address": "0x101d82428437127bf1608f699cd651e6abf9766e",
+      "symbol": "BAT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/bat_32.png"
+    },
+    {
+      "name": "Bitcoin Cash",
+      "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+      "symbol": "BCH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/bitcoincash_32.png"
+    },
+    {
+      "name": "Beefy",
+      "address": "0xca3f508b8e4dd382ee878a314789373d80a5190a",
+      "symbol": "BIFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://assets.coingecko.com/coins/images/12704/small/token.png?1601876182"
+    },
+    {
+      "name": "BLink",
+      "address": "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f",
+      "symbol": "BLK",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI": "https://assets.coingecko.com/coins/images/13210/small/exO5GLDpRGo.jpg?1606202654"
+    },
+    {
+      "name": "BTCB",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/btcb_32.png"
+    },
+    {
+      "name": "Burger Swap",
+      "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+      "symbol": "BURGER",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/burgerswap_32.png"
+    },
+    {
+      "name": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "name": "Pancake Swap",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png?=v1"
+    },
+    {
+      "name": "DAI",
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/dai_32.png"
+    },
+    {
+      "name": "Dogecoin",
+      "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "symbol": "Doge",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/dogecoin_32.png"
+    },
+    {
+      "name": "DOT",
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "symbol": "DOT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
+    },
+    {
+      "name": "EOS",
+      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "symbol": "EOS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/eos_32.png"
+    },
+    {
+      "name": "ETC",
+      "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+      "symbol": "ETC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/ethclassic_32.png?v=1"
+    },
+    {
+      "name": "Ethereum",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
+    },
+    {
+      "name": "Fomozi",
+      "address": "0xbb2b8644bbde9141c8b983889d2b73254513f48b",
+      "symbol": "FMZ",
+      "decimals": 0,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/fomozi_32.png"
+    },
+    {
+      "name": "Chainlink",
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/chainlink_32.png"
+    },
+    {
+      "name": "Litecoin",
+      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "symbol": "LTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
+    },
+    {
+      "name": "MakerDao",
+      "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
+      "symbol": "MKR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/makerdao_32.png"
+    },
+    {
+      "name": "Synthetix",
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "symbol": "SNX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/snx_32.png"
+    },
+    {
+      "name": "TrustToken",
+      "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+      "symbol": "TWT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/trust_32.png?v=1"
+    },
+    {
+      "name": "UNI",
+      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/uniswap_32.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+    },
+    {
+      "name": "Wrapped UST",
+      "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+      "symbol": "UST",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/terra-ust_32.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    },
+    {
+      "name": "XRP",
+      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "symbol": "XRP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/xrp_32.png"
+    },
+    {
+      "name": "Yearn",
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "symbol": "YFI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/yfi_32.png"
+    },
+    {
+      "name": "ZCash",
+      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "symbol": "ZEC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/zcash_32.png"
+    }
+  ]
+}
